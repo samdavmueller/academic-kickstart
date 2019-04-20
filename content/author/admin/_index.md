@@ -33,20 +33,20 @@ interests = [
 # user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+# [[education.courses]]
+#   course = "PhD in Artificial Intelligence"
+#   institution = "Stanford University"
+#   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Political Economy"
+  institution = "Universtiy of Konstanz"
+  year = 2017
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Political Science"
+  institution = "University of Mannheim"
+  year = 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -82,6 +82,4 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am PhD candidate at the Graduate School of Economic and Social Sciences and research associate at the Chair for Political Economy at the University of Mannheim. Currently I am also working as an Editorial Assistant at the American Political Science Review.
