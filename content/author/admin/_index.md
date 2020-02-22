@@ -23,9 +23,10 @@ email = "sammuell@mail.uni-mannheim.de"
 
 # List (academic) interests or hobbies
 interests = [
-  "Political Economy",
-  "Formal Modelling",
-  "Flying Horses"
+  "Behavioral Information Processing",
+  "Quantitative Text Analysis",
+  "Formal Theory",
+  "Legislative Processes"
 ]
 
 # Organizational groups that you belong to (for People widget)
