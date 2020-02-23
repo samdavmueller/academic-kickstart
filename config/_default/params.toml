@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sammuell@mail.uni-mannheim.de"
-phone = "+49 (0)621 181 3475"
+phone = "+49-621-181-3475"
 address = "A5, 6 Room B301, D-68159 Mannheim"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours

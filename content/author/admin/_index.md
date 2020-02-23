@@ -35,17 +35,17 @@ interests = [
 
 # List qualifications (such as academic degrees)
 # [[education.courses]]
-#   course = "PhD in Artificial Intelligence"
-#   institution = "Stanford University"
-#   year = 2012
+   course = "PhD Candidate"
+   institution = "Graduate School of Economic and Social Sciences, University of Mannheim"
+   year = since 2017
 
 [[education.courses]]
-  course = "MSc in Political Economy"
+  course = "M.Sc. in Political Economy"
   institution = "Universtiy of Konstanz"
   year = 2017
 
 [[education.courses]]
-  course = "BA in Political Science"
+  course = "B.A. in Political Science"
   institution = "University of Mannheim"
   year = 2015
 
