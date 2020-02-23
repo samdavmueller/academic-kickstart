@@ -73,4 +73,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-This is supposed to be some Project but I just can't make it happen...
