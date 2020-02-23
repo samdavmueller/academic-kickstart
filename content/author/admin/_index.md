@@ -40,8 +40,8 @@ interests = [
 #   year = since 2017
 
 [[education.courses]]
-  course = "M.Sc. in Political Economy"
-  institution = "Universtiy of Konstanz"
+  course = "PhD Candidate"
+  institution = "Graduate School of Economic and Social Sciences, University of Mannheim"
   year = 2017
 
 [[education.courses]]
