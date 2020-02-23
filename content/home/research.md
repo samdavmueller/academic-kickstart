@@ -10,11 +10,11 @@ title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 30
 
 +++  
 ## Work in Progress:
 
 * **Stuff I do **
 
-* **Stuff I don't** 
+* **Stuff I don't**
