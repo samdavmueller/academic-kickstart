@@ -42,7 +42,7 @@ interests = [
 [[education.courses]]
   course = "PhD Candidate"
   institution = "Graduate School of Economic and Social Sciences, University of Mannheim"
-  year = since 2017
+  year = "since 2017"
 
 [[education.courses]]
   course = "M.Sc. in Political Economy"
