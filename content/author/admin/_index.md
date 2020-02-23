@@ -40,7 +40,7 @@ interests = [
 #   year = since 2017
 
 [[education.courses]]
-  course = "PhD Candidate"
+  course = "Ph.D. Candidate"
   institution = "Graduate School of Economic and Social Sciences, University of Mannheim"
   year = "since 2017"
 
