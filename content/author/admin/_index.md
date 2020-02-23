@@ -45,6 +45,11 @@ interests = [
   year = 2017
 
 [[education.courses]]
+  course = "M.Sc. in Political Economy"
+  institution = "Universtiy of Konstanz"
+  year = 2017
+
+[[education.courses]]
   course = "B.A. in Political Science"
   institution = "University of Mannheim"
   year = 2015
