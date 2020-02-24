@@ -13,8 +13,8 @@ subtitle = ""
 weight = 40
 
 +++  
-## Work in Progress:
+## Courses:
 
-* **Stuff I do **
+* **Tutorial Game Theory - Graduate (English)**
 
-* **Stuff I don't**
+* **Seminar "Social Choice and Democratic Institutions" - Undergraduate (English)**

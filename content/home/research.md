@@ -15,6 +15,14 @@ weight = 30
 +++  
 ## Work in Progress:
 
-* **Stuff I do **
+* **Twitter Made Me Do It! Twitters' Tonal Platform Incentive And Its Effect On Online Campaigning** (with Marius Saeltzer)
 
-* **Stuff I don't**
+* **Social Class And (Un)Ethical Behavior: Causal Versus Correlational Evidence** (with Elisabeth Gsottbauer, Daniel Muller, Stefan Trautmann and Galina Zudenkova)
+
+* **Experimental Evidence for Strategic Information Sharing in Biased Committees**
+
+* **Strategic Signal Revelation in a Deliberative Committee with Biased Information Processing**
+
+* **The Amount of Information Provided by Interest Groups**
+
+* **Why Do Voters Support Price Controls?** (with Moritz Janas and Daniel Muller)
