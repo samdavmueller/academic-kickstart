@@ -15,6 +15,6 @@ weight = 40
 +++  
 ## Courses:
 
-* **Tutorial Game Theory - Graduate (English)**
+* **Tutorial Game Theory**  - Graduate (English)
 
-* **Seminar "Social Choice and Democratic Institutions" - Undergraduate (English)**
+* **Social Choice and Democratic Institutions** - Seminar Undergraduate (English)
