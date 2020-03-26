@@ -88,4 +88,6 @@ interests = [
 
 +++
 
-I am PhD candidate at the Graduate School of Economic and Social Sciences and research associate at the Chair for Political Economy at the University of Mannheim. Currently I am also working as an Editorial Assistant at the American Political Science Review.
+I am PhD candidate at the Graduate School of Economic and Social Sciences (GESS) and research associate at the Chair for Political Economy at the University of Mannheim. Currently I am also working as an Editorial Assistant at the American Political Science Review.
+
+My research focuses on **committee decision making** and **lobbying**. I am especially interested in **strategic information provision** and the effect of **behavioral information processing** on decision making. I use **formal models, experiments and quantitative methods**, particularly text analysis methods, to conduct my research. I am also interested in social media usage on electoral campaigning and social preferences more generally.
