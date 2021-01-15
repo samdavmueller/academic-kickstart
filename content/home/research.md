@@ -13,6 +13,11 @@ subtitle = ""
 weight = 30
 
 +++  
+
+## Publications:
+
+* Mueller, Samuel David, and Marius Saeltzer.2020."Twitter made me do it! Twitter's tonal platform incentive and its effect on online campaigning." *Information, Communication & Society.* First View.
+
 ## Work in Progress:
 
 * **Social Class And (Un)Ethical Behavior: Causal Versus Correlational Evidence** (with Elisabeth Gsottbauer, Daniel Muller, Stefan Trautmann and Galina Zudenkova)
