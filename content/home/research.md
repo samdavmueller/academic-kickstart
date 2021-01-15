@@ -16,7 +16,7 @@ weight = 30
 
 ## Publications:
 
-* Mueller, Samuel David, and Marius Saeltzer.2020."**Twitter made me do it! Twitter's tonal platform incentive and its effect on online campaigning**." *Information, Communication & Society.* First View.[DOI: 10.1080/1369118X.2020.1850841](https://doi.org/10.1080/1369118X.2020.1850841)
+* Mueller, Samuel David, and Marius Saeltzer.2020.["**Twitter made me do it! Twitter's tonal platform incentive and its effect on online campaigning**."](https://doi.org/10.1080/1369118X.2020.1850841) *Information, Communication & Society.* First View. 
 
 ## Work in Progress:
 
