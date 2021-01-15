@@ -16,11 +16,11 @@ weight = 30
 
 ## Publications:
 
-* Samuel David Mueller & Marius Saeltzer (2020) ["**Twitter made me do it! Twitter's tonal platform incentive and its effect on online campaigning**."](https://doi.org/10.1080/1369118X.2020.1850841) *Information, Communication & Society.* First View. 
+* Samuel David Mueller & Marius Saeltzer (2020) ["**Twitter made me do it! Twitter's tonal platform incentive and its effect on online campaigning**."](https://doi.org/10.1080/1369118X.2020.1850841) *Information, Communication & Society.* First View.
 
 ## Work in Progress:
 
-* **Social Class And (Un)Ethical Behavior: Causal Versus Correlational Evidence** (with Elisabeth Gsottbauer, Daniel Muller, Stefan Trautmann and Galina Zudenkova)
+* **Social Class And (Un)Ethical Behavior: Causal Versus Correlational Evidence** (with Elisabeth Gsottbauer, Daniel Müller, Stefan Trautmann and Galina Zudenkova)
 
 * **Counteracting Confirmation Bias in Committees: An Experimental Study of Strategic Information Sharing**
 
@@ -30,4 +30,4 @@ weight = 30
 
 * **The Amount of Information Provided by Interest Groups**
 
-* **Why Do Voters Support Price Controls?** (with Moritz Janas and Daniel Muller)
+* **Why Do Voters Support Price Controls?** (with Moritz Janas and Daniel Müller)
