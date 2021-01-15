@@ -16,7 +16,7 @@ role = "PhD Candidate in Political Science"
 organizations = [ { name = "Universtiy of Mannheim", url = "https://www.uni-mannheim.de/en/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include just the best stuff."
+bio = " "
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "sammuell@mail.uni-mannheim.de"
