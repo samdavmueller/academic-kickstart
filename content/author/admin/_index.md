@@ -69,10 +69,10 @@ interests = [
 #   icon_pack = "fab"
 #   link = "https://twitter.com/GeorgeCushen"
 
-# [[social]]
-#   icon = "google-scholar"
-#   icon_pack = "ai"
-#   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+ [[social]]
+   icon = "google-scholar"
+   icon_pack = "ai"
+   link = "https://scholar.google.de/citations?user=RhjgjvMAAAAJ&hl"
 
 # [[social]]
 #   icon = "github"
@@ -87,7 +87,3 @@ interests = [
    link = "files/cv.pdf"
 
 +++
-
-I am PhD candidate at the Graduate School of Economic and Social Sciences (GESS) and research associate at the Chair for Political Economy at the University of Mannheim. Currently I am also working as research associate at the Mannheim Centre for European Social Research in the Project "Experiences of Everyday Racism and Media-Mediated Racism in the (Political) Public Sphere".
-
-My research focuses on **committee decision making** and **lobbying**. I am especially interested in **strategic information provision** and the effect of **behavioral information processing** on decision making. In my research I use **formal models, experiments and quantitative methods**, particularly **quantitative text analysis methods**. I am also interested in social media usage on electoral campaigning and social preferences more generally.

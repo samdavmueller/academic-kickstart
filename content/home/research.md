@@ -15,13 +15,13 @@ weight = 30
 +++  
 ## Work in Progress:
 
-* **Twitter Made Me Do It! Twitters' Tonal Platform Incentive And Its Effect On Online Campaigning** (with Marius Saeltzer)
-
 * **Social Class And (Un)Ethical Behavior: Causal Versus Correlational Evidence** (with Elisabeth Gsottbauer, Daniel Muller, Stefan Trautmann and Galina Zudenkova)
 
-* **Experimental Evidence for Strategic Information Sharing in Biased Committees**
+* **Counteracting Confirmation Bias in Committees: An Experimental Study of Strategic Information Sharing**
 
 * **Strategic Signal Revelation in a Deliberative Committee with Biased Information Processing**
+
+* **Ask, And You Shall Receive: Strategic Information Transmission in the Public Consultation Procedure of the European Commission**
 
 * **The Amount of Information Provided by Interest Groups**
 
