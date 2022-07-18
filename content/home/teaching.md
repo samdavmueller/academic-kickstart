@@ -18,3 +18,5 @@ weight = 40
 * **Tutorial Game Theory**  - Graduate (English)
 
 * **Social Choice and Democratic Institutions** - Seminar Undergraduate (English)
+
+* **Tutorial: Data Analysis with Stata** - Seminar Undergraduate (English)
