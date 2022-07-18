@@ -50,12 +50,12 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "sammuell@mail.uni-mannheim.de"
-phone = "+49-621-181-3475"
-address = "A5, 6 Room B301, D-68159 Mannheim"
+email = "samuel.mueller@uni-mannheim.de"
+# phone = "+49-621-181-3475"
+# address = "A5, 6 Room B301, D-68159 Mannheim"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """By appointment"""
+# office_hours = """By appointment"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"

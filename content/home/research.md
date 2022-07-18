@@ -16,18 +16,16 @@ weight = 30
 
 ## Publications:
 
-* Samuel David Mueller & Marius Saeltzer (2020) ["**Twitter made me do it! Twitter's tonal platform incentive and its effect on online campaigning**."](https://doi.org/10.1080/1369118X.2020.1850841) *Information, Communication & Society.* First View.
 
-## Work in Progress:
+* Elisabeth Gsottbauer, Daniel Müller, Samuel David Mueller, Stefan Trautmann, and Galina Zudenkova (2022) ["**Social Class And (Un)Ethical Behavior: Causal Versus Correlational Evidence**."](https://doi.org/10.1093/ej/ueac022) *The Economic Journal*. ueac022.
 
-* **Social Class And (Un)Ethical Behavior: Causal Versus Correlational Evidence** (with Elisabeth Gsottbauer, Daniel Müller, Stefan Trautmann and Galina Zudenkova)
+* Samuel David Mueller & Marius Saeltzer (2020) ["**Twitter made me do it! Twitter's tonal platform incentive and its effect on online campaigning**."](https://doi.org/10.1080/1369118X.2020.1850841) *Information, Communication & Society* 25(9): 1247-1272 .
 
-* **Counteracting Confirmation Bias in Committees: An Experimental Study of Strategic Information Sharing**
 
-* **Strategic Signal Revelation in a Deliberative Committee with Biased Information Processing**
+## Working Papers:
 
-* **Ask, And You Shall Receive: Strategic Information Transmission in the Public Consultation Procedure of the European Commission**
+* **Strategic Reactions to Confirmation Bias in Committees: An Experimental Study of Strategic Information Sharing**
 
-* **The Amount of Information Provided by Interest Groups**
+* **Corelation Neglect and Information Aggregation in Deliberative Committees**
 
-* **Why Do Voters Support Price Controls?** (with Moritz Janas and Daniel Müller)
+* **Ask, And You Shall Receive: Strategic Information Transmission under Better Regulation Guidelines of the European Commission**
